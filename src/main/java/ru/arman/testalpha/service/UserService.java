@@ -29,7 +29,7 @@ public class UserService {
     }*/
 
     @Autowired
-    public UserService(@Value("#{${SELECTED_REPO:JPA}}") CustomizedUserRepository customizedUserRepository) {
+    public UserService(@Value("#{${selected.repo:JPA}}") CustomizedUserRepository customizedUserRepository) {
         this.customizedUserRepository = customizedUserRepository;
     }
 
