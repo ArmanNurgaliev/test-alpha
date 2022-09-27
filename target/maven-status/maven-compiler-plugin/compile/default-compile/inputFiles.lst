@@ -1,0 +1,11 @@
+C:\Users\Arman\IdeaProjects\test-alpha\src\main\java\ru\arman\testalpha\repository\UserJdbcRepository.java
+C:\Users\Arman\IdeaProjects\test-alpha\src\main\java\ru\arman\testalpha\service\UserService.java
+C:\Users\Arman\IdeaProjects\test-alpha\src\main\java\ru\arman\testalpha\error\UserResponseEntityExceptionHandler.java
+C:\Users\Arman\IdeaProjects\test-alpha\src\main\java\ru\arman\testalpha\controller\UserController.java
+C:\Users\Arman\IdeaProjects\test-alpha\src\main\java\ru\arman\testalpha\error\UserNotFoundException.java
+C:\Users\Arman\IdeaProjects\test-alpha\src\main\java\ru\arman\testalpha\repository\UserJpaRepository.java
+C:\Users\Arman\IdeaProjects\test-alpha\src\main\java\ru\arman\testalpha\model\ErrorMessage.java
+C:\Users\Arman\IdeaProjects\test-alpha\src\main\java\ru\arman\testalpha\repository\CustomizedUserRepository.java
+C:\Users\Arman\IdeaProjects\test-alpha\src\main\java\ru\arman\testalpha\dto\UserDto.java
+C:\Users\Arman\IdeaProjects\test-alpha\src\main\java\ru\arman\testalpha\TestAlphaApplication.java
+C:\Users\Arman\IdeaProjects\test-alpha\src\main\java\ru\arman\testalpha\model\User.java

@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: ru.arman.testalpha.repository.UserJdbcRepositoryTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 1, Skipped: 0, Time elapsed: 19.307 s <<< FAILURE! - in ru.arman.testalpha.repository.UserJdbcRepositoryTest
+saveUser_success  Time elapsed: 0.031 s  <<< ERROR!
+java.lang.ClassCastException: class org.hamcrest.core.IsInstanceOf cannot be cast to class org.springframework.jdbc.core.PreparedStatementCreator (org.hamcrest.core.IsInstanceOf and org.springframework.jdbc.core.PreparedStatementCreator are in unnamed module of loader 'app')
+	at ru.arman.testalpha.repository.UserJdbcRepositoryTest.saveUser_success(UserJdbcRepositoryTest.java:119)
+
+findAllUsers_success  Time elapsed: 0.016 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <3> but was: <0>
+	at ru.arman.testalpha.repository.UserJdbcRepositoryTest.findAllUsers_success(UserJdbcRepositoryTest.java:114)
+
